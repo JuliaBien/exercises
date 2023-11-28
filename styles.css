@@ -1,0 +1,9 @@
+a {
+  font-style: italic;
+  text-decoration: none;
+  color: aqua;
+}
+a:hover {
+  font-weight: 700;
+  color: black;
+}
